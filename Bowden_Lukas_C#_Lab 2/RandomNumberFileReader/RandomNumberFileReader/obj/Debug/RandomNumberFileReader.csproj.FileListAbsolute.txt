@@ -1,0 +1,10 @@
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.exe.config
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\bin\Debug\RandomNumberFileReader.pdb
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.RandomNumberFileReader.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.Properties.Resources.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csproj.GenerateResource.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Main File\RandomNumberFileReader\RandomNumberFileReader\obj\Debug\RandomNumberFileReader.pdb

@@ -1,0 +1,10 @@
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\bin\Debug\Question13.exe.config
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\bin\Debug\Question13.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\bin\Debug\Question13.pdb
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\obj\Debug\Question13.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\obj\Debug\Question13.Form1.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\obj\Debug\Question13.Properties.Resources.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\obj\Debug\Question13.csproj.GenerateResource.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\obj\Debug\Question13.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\obj\Debug\Question13.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 6\Question13\Question13\obj\Debug\Question13.pdb
